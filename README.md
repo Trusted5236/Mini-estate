@@ -4,8 +4,8 @@ An interactive, responsive React prototype that allows users to explore towers, 
 
 ## Live Demo
 
-🔗 [View Live on Vercel](https://your-vercel-demo-url.com)  
-📹 [Watch the Demo Video (Loom)](https://your-loom-video-url.com)
+🔗 [View Live on Vercel](https://mini-estate-ten.vercel.app/)  
+📹 [Watch the Demo Video (Loom)](https://www.loom.com/share/89f9139aef234d69ae5dda245c334651)
 
 ## Features
 
